@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Bricks">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Bricks/dist/Bricks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../ckjm_ext.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
